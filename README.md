@@ -75,8 +75,8 @@ Through this project, I strengthened my skills in:
 * Handling real-world business logic scenarios
 * Improving query accuracy and performance through proper schema design
 
-## 🎓 Created By
+## 🏁 Conclusion
 
-**Ishita Mishra**
+This project provided a hands-on understanding of how real-world database systems operate within a hospital environment. By designing tables, establishing relationships, and developing advanced stored procedures, I gained practical experience in writing efficient SQL queries and extracting meaningful insights from structured data.
 
-As part of my SQL / Data Analytics learning and portfolio building.
+The Hospital Management System demonstrates my ability to work with relational databases, implement business logic using SQL, and build scalable solutions suitable for analytics and backend applications. This project strengthens my foundation in SQL and reflects my capability to handle real-world data scenarios.
