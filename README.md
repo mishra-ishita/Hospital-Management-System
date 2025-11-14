@@ -78,4 +78,5 @@ Through this project, I strengthened my skills in:
 ## 🎓 Created By
 
 **Ishita Mishra**
+
 As part of my SQL / Data Analytics learning and portfolio building.
